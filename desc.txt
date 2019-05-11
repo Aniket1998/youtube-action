@@ -1,0 +1,24 @@
+Training Set 2093
+Test Set 391
+Excluded 1040
+Training Set Categories
+basketball : 136
+biking : 227
+diving : 214
+golf_swing : 203
+horse_riding : 319
+soccer_juggling : 362
+tennis_swing : 235
+trampoline_jumping : 192
+walking : 205
+Test Set Categories
+basketball : 22
+biking : 48
+diving : 42
+golf_swing : 31
+horse_riding : 60
+soccer_juggling : 72
+tennis_swing : 36
+trampoline_jumping : 47
+walking : 33
+
